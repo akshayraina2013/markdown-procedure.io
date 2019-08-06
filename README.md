@@ -1,2 +1,2 @@
 # markdown-procedure.io
-The procedure is written Markdown
+The procedure is written in Markdown
