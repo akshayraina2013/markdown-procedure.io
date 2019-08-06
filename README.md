@@ -1,2 +1,3 @@
 # markdown-procedure.io
-The procedure is written in Markdown
+The file name "Markdown" has the procedure written in Markdown.
+The file name "Procedure" has the procedure written in simple english.
